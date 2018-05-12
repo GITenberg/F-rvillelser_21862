@@ -1,0 +1,30 @@
+_repo: F-rvillelser_21862
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Söderberg, Hjalmar
+    aliases:
+    - Soderberg, Hjalmar
+    - Hjalmar Söderberg
+    - Söderberg, Hjalmar Emil Fredrik
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '24935'
+    url: http://www.gutenberg.org/2009/agents/24935
+description: ''
+gutenberg_issued: '2007-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21862'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Förvillelser
+url: http://www.gutenberg.org/ebooks/21862
